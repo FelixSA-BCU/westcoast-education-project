@@ -51,22 +51,6 @@
       "image": "https://picsum.photos/300"
     }
   ],
-  "bookings": [
-    {
-      "id": "de50",
-      "courseId": "a43b",
-      "name": "Felix Sandström Andersson",
-      "address": "Dr Sandbergs gata 14A",
-      "email": "felix03.andersson@gmail.com",
-      "phone": "0709993080"
-    }
-  ],
-  "users": [
-    {
-      "id": "d71d",
-      "name": "Felix Sandström Andersson",
-      "email": "felix03.andersson@gmail.com",
-      "password": "17kaLos39"
-    }
-  ]
+  "bookings": [],
+  "users": []
 }
