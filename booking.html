@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title>Boka kurs</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<nav>
+<a href="index.html">Start</a>
+<button id="authButton"></button>
+</nav>
+
+<div class="form-container">
+
+<h1>Boka kurs</h1>
+
+<form id="bookingForm">
+
+<label>Namn</label>
+<input type="text" id="name" required>
+
+<label>Faktureringsadress</label>
+<input type="text" id="address" required>
+
+<label>Email</label>
+<input type="email" id="email" required>
+
+<label>Mobilnummer</label>
+<input type="text" id="phone" required>
+
+<button type="submit">Boka kurs</button>
+
+</form>
+
+</div>
+
+<script type="module" src="./js/booking.js"></script>
+<script type="module" src="./js/auth.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,72 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "JavaScript Fundamentals",
+      "courseNumber": "JS101",
+      "days": 3,
+      "price": 5000,
+      "type": "Classroom",
+      "date": "2026-05-10",
+      "image": "https://picsum.photos/300"
+    },
+    {
+      "id": "a43b",
+      "title": "Datorteknik",
+      "courseNumber": "DTA1",
+      "days": "30",
+      "price": "2499",
+      "date": "2026-04-27",
+      "type": "Distans",
+      "image": "https://picsum.photos/300"
+    },
+    {
+      "id": "c9b8",
+      "title": "Teknik",
+      "courseNumber": "TKA1",
+      "days": "21",
+      "price": "1499",
+      "date": "2026-05-18",
+      "type": "Classroom",
+      "image": "https://picsum.photos/300"
+    },
+    {
+      "id": "c13c",
+      "title": "Webbutveckling ",
+      "courseNumber": "WEB1",
+      "days": "45",
+      "price": "3899",
+      "date": "2026-07-16",
+      "type": "Distans",
+      "image": "https://picsum.photos/300"
+    },
+    {
+      "id": "dc5e",
+      "title": "Programmering",
+      "courseNumber": "PRB2",
+      "days": "28",
+      "price": "899",
+      "date": "2026-05-25",
+      "type": "Classroom",
+      "image": "https://picsum.photos/300"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "de50",
+      "courseId": "a43b",
+      "name": "Felix Sandström Andersson",
+      "address": "Dr Sandbergs gata 14A",
+      "email": "felix03.andersson@gmail.com",
+      "phone": "0709993080"
+    }
+  ],
+  "users": [
+    {
+      "id": "d71d",
+      "name": "Felix Sandström Andersson",
+      "email": "felix03.andersson@gmail.com",
+      "password": "17kaLos39"
+    }
+  ]
+}
